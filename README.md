@@ -1,4 +1,4 @@
-# COL Release Testing
+# COL Release Tasks
 
 Editorial tests and discussion to prepare for COL releases.
 Issues are created for each release, e.g. [CoL of February 2024]([url](https://github.com/CatalogueOfLife/testing/issues/245)),
